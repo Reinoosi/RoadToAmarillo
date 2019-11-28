@@ -21,7 +21,7 @@ public class CoinScript : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            other.GetComponent<ScoreManager>().points++;
+            other.GetComponent<ScoreManager>().scoreCount++;
             
             // Add 1 to coins and destroy object.
             Destroy(gameObject);

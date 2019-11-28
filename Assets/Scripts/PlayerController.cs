@@ -1,20 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRb;                 // Declare RigidBody playerRb.
+
     private Animator playerAnim;                // Declare Animator playerAnim.
-    private AudioSource playerAudio;            // Declare AudioSource playerAudio and add compononent in Unity.
     public ParticleSystem explosionParticle;    // Declare ParticleSystem explosionParticle and add explosionParticle to PlayerControllerScript in Unity.
     public ParticleSystem dirtParticle;         // Declare ParticleSystem dirtParticle and add dirtParticle to PlayerControllerScript in Unity.
+
+    private AudioSource playerAudio;            // Declare AudioSource playerAudio and add compononent in Unity.
     public AudioClip jumpSound;                 // Declare AudioClip jumpSound and add sound in Unity.
     public AudioClip crashSound;                // Declare AudioClip crashSound and add sound in Unity.
-    public float jumpForce = 10;
+
+    public float jumpForce;
     public float gravityModifier;
     public bool isOnGround = true;
     public bool gameOver;
+
+    public GameManager theDeathScreen;
 
     // Start is called before the first frame update
     void Start()
@@ -55,6 +61,9 @@ public class PlayerController : MonoBehaviour
             explosionParticle.Play();                       // Call explosionParticle effect and play it.
             dirtParticle.Stop();                            // Stop playing dirtParticle effect if you die.
             playerAudio.PlayOneShot(crashSound, 1.0f);      // If player dies, play crashSound once.
+
+            theDeathScreen.RestartGame();
+
         }
     }
 }
