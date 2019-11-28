@@ -1,6 +1,0 @@
-
-Tässä linkki pelivideoon, kerron videolla vähän projektin etenemisestä ja esteistä.
-
-Ajattelin tehdä youtubesta Unity Endless Runner Tutorialin kokonaan jossain vaiheessa. Siinä on 23 osaa, joten siinä on melko kattavasti 2D platformeriin neuvoja.
-
-https://www.youtube.com/watch?v=iURMYGlwMOY

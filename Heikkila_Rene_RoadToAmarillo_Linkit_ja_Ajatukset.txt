@@ -1,0 +1,51 @@
+
+Moikka Teemu,
+
+Pahoittelut, ett‰ toistamiseen myˆh‰styin palautus-boksista. Tein nyt t‰llaisen koosteen ja toivottavasti t‰m‰ kelpaa palautukseksi. Lupaan jatkossa varata entist‰ enemm‰n aikaa projekteille. 
+On ollut hieman vaikeaa arvioida ajank‰yttˆ‰, mutta nyt alkaa k‰ym‰‰n selv‰ksi ett‰ n‰m‰ projektit tosiaan vaatii lukuisia tunteja tyˆt‰.
+
+
+
+T‰ss‰ linkki pelivideoon, kerron videolla v‰h‰n projektin etenemisest‰ ja esteist‰.
+
+https://www.youtube.com/watch?v=iURMYGlwMOY
+
+Ajattelin tehd‰ youtubesta Unity Endless Runner - tutorialin kokonaan jossain vaiheessa. Siin‰ on 23 osaa, joten siin‰ on melko kattavasti 2D platformerin tekeminen.
+
+
+
+T‰ss‰ on viel‰ linkki GitHubin kansioon. (Ymm‰rsin, ett‰ t‰t‰ tarkoitettiin?)
+
+https://github.com/Reinoosi/RoadToAmarillo.git
+
+
+
+Minulla oli todella paljon vaikeuksia p‰‰st‰ alkuun t‰ss‰ projektissa. Tein sen Learn.Unityn Unit 3 lessonin kokonaan ja katsoin siit‰ kaikki videot. Se auttoi ja opetti todella paljon. 
+Yritin mietti‰ kuinka l‰htisin muokkaamaan siit‰ ja lˆysin sitten tuon Endless Runner - tutorialin youtubesta. Katsoin sielt‰ menujen tekemisen, mutta myˆhemmin aion katsoa koko sarjan. 
+Videoilla oli tosi selke‰sti kerrottu juurikin menujen tekeminen, sek‰ eritt‰in paljon muuta hyˆdyllist‰ aloittelijalle. Aika loppui valitettavasti kesken, enk‰ saanut l‰hellek‰‰n 
+sellaista jota aluksi ajattelin ja haaveilin. Tosin eikai mit‰‰n masterpiecea vaaditakkaan ensimm‰isest‰ pelist‰, varsinkaan kun ei ole mit‰‰n pohjia t‰llaiselle. 
+En siltik‰‰n ole kovin tyytyv‰inen t‰h‰n suoritukseen. Viimeiset 2 p‰iv‰‰ olen katsonut todella paljon videoita, sek‰ testaillut ja opetellut uusia asioita.
+
+Kuvittelin t‰llaisen yksinkertaisen pelin olevan jotenkin helppo ja nopea tehd‰, olin v‰‰r‰ss‰. T‰ss‰ on eritt‰in paljon haastetta ensimm‰iselle kerralle ja aika kuluu eritt‰in nopeasti n‰it‰ tehdess‰. 
+6 tuntia ei ole mit‰‰n, kun istuu koneelle ja alkaa naputtamaan. Tykk‰‰n haasteista ja haluan todella paljon oppia n‰it‰ asioita. T‰ss‰ on todella paljon tekemist‰ tulevaisuudessa, jotta oppii perusjutut 
+joiden pohjalta on sitten helpompaa l‰hte‰ visioimaan uusia ideoita ja toteutuksia. 
+
+
+
+T‰ss‰ projektissa olen t‰h‰n menness‰ oppinut uusina asioina mm.
+
+MainMenun, PauseMenun ja DeathMenun tekemisen.
+Buttonien tekemisen ja niille funktiot.
+Partikkelien asettamisen ja muokkaamisen.
+Animaatioiden lis‰‰misen pelihahmolle ja parametrien muokkaamista.
+ƒ‰niefektien lis‰‰minen peliin ja niiden s‰‰t‰mist‰.
+Sek‰ paljon muita pieni‰ asioita.
+
+Tavoitteena on jatkaa t‰t‰ projektia ja lis‰t‰ ainakin seuraavat asiat:
+
+PlatformGenerator joka spawnaa erilaisia platformeja ja yrit‰n myˆs itse tehd‰ platformit.
+Kolikot spawnaamaan, siten ett‰ niiss‰ on ‰‰net ja niist‰ saa pisteit‰.
+Vaihtaa taustan maisemaa.
+Power-uppeja.
+
+Otan siis oppia siit‰ Endless Runnerista ja pyrin kommentoimaan mahdollisimman tarkasti eri scriptej‰ ja ymm‰rt‰m‰‰n niiden teht‰v‰t, enk‰ pelk‰st‰‰n kopioi niit‰.
