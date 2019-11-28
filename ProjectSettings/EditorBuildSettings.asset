@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f9065aa3fe2a57d4eadd5b95fee93df0
+  - enabled: 1
+    path: Assets/Scenes/RoadToAmarillo.unity
+    guid: dc8c9f3efd746429fa6f9482dc779492
   m_configObjects: {}
